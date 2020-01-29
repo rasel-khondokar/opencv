@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="376af127-c21a-4f9b-9bc9-eea5c37f0c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08 - split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Trackbar part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 - Trackbar part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitwise AND, OR, NOT and XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/messi5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,13 +159,36 @@
       <option name="presentableId" value="Default" />
       <updated>1580193453612</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add some new files">
+      <created>1580277032462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580277032463</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add some new files">
+      <created>1580277143888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580277143888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add some new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some new files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2346" y="53" width="805" height="818" key="CommitChangelistDialog2" timestamp="1580277032229">
+    <state x="2346" y="53" width="805" height="818" key="CommitChangelistDialog2" timestamp="1580277294284">
       <screen x="1920" y="0" width="1600" height="900" />
     </state>
-    <state x="2346" y="53" width="805" height="818" key="CommitChangelistDialog2/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580277032229" />
+    <state x="2346" y="53" width="805" height="818" key="CommitChangelistDialog2/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580277294284" />
+    <state x="2104" y="87" width="1280" height="750" key="DiffContextDialog" timestamp="1580277292754">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2104" y="87" width="1280" height="750" key="DiffContextDialog/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580277292754" />
     <state x="2525" y="206" width="447" height="513" key="FileChooserDialogImpl" timestamp="1580276753941">
       <screen x="1920" y="0" width="1600" height="900" />
     </state>
