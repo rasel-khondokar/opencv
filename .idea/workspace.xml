@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="376af127-c21a-4f9b-9bc9-eea5c37f0c8d" name="Default Changelist" comment="" />
+    <list default="true" id="376af127-c21a-4f9b-9bc9-eea5c37f0c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08 - split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Trackbar part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Trackbar part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise AND, OR, NOT and XOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messi5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1X0qeIqovwoMLFbB5CbDilUCnat" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,92 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.06 - Mouse Events part 1">
-    <configuration name="02 - Read, Write, Show Videos from Camera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 - Read, Write, Show Videos from Camera.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03 - geometric shapes on images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - geometric shapes on images.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04 - Setting Camera Parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 - Setting Camera Parameters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05 - Date and Time on Videos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - Date and Time on Videos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.10 - Trackbar part 2">
     <configuration name="06 - Mouse Events part 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,18 +61,102 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08 - split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09 - Trackbar part 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Trackbar part 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10 - Trackbar part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 - Trackbar part 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bitwise AND, OR, NOT and XOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bitwise AND, OR, NOT and XOR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10 - Trackbar part 2" />
+        <item itemvalue="Python.09 - Trackbar part 1" />
+        <item itemvalue="Python.bitwise AND, OR, NOT and XOR" />
+        <item itemvalue="Python.08 - split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI" />
         <item itemvalue="Python.06 - Mouse Events part 1" />
-        <item itemvalue="Python.05 - Date and Time on Videos" />
-        <item itemvalue="Python.04 - Setting Camera Parameters" />
-        <item itemvalue="Python.03 - geometric shapes on images" />
-        <item itemvalue="Python.02 - Read, Write, Show Videos from Camera" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,25 +169,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="128" key="GridCell.Tab.0.bottom" timestamp="1580200309515">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="2525" y="206" width="447" height="513" key="FileChooserDialogImpl" timestamp="1580276753941">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2525" y="206" width="447" height="513" key="FileChooserDialogImpl/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276753941" />
+    <state x="2606" y="357" key="Github.ShareDialog" timestamp="1580276857377">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2606" y="357" key="Github.ShareDialog/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276857377" />
+    <state width="755" height="206" key="GridCell.Tab.0.bottom" timestamp="1580276918983">
+      <screen x="1920" y="0" width="1600" height="900" />
     </state>
     <state width="1897" height="128" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.27.1920.1053@0.27.1920.1053" timestamp="1580200309515" />
-    <state width="1510" height="128" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580200229277" />
-    <state width="1897" height="128" key="GridCell.Tab.0.center" timestamp="1580200309515">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="755" height="206" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276918983" />
+    <state width="1510" height="128" key="GridCell.Tab.0.bottom/1920.0.1600.900/67.27.1533.873@67.27.1533.873" timestamp="1580222399655" />
+    <state width="755" height="206" key="GridCell.Tab.0.center" timestamp="1580276918983">
+      <screen x="1920" y="0" width="1600" height="900" />
     </state>
     <state width="1897" height="128" key="GridCell.Tab.0.center/1920.0.1600.900/0.27.1920.1053@0.27.1920.1053" timestamp="1580200309515" />
-    <state width="1510" height="128" key="GridCell.Tab.0.center/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580200229277" />
-    <state width="1897" height="128" key="GridCell.Tab.0.left" timestamp="1580200309514">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="755" height="206" key="GridCell.Tab.0.center/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276918983" />
+    <state width="1510" height="128" key="GridCell.Tab.0.center/1920.0.1600.900/67.27.1533.873@67.27.1533.873" timestamp="1580222399654" />
+    <state width="755" height="206" key="GridCell.Tab.0.left" timestamp="1580276918983">
+      <screen x="1920" y="0" width="1600" height="900" />
     </state>
     <state width="1897" height="128" key="GridCell.Tab.0.left/1920.0.1600.900/0.27.1920.1053@0.27.1920.1053" timestamp="1580200309514" />
-    <state width="1510" height="128" key="GridCell.Tab.0.left/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580200229277" />
-    <state width="1897" height="128" key="GridCell.Tab.0.right" timestamp="1580200309515">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="755" height="206" key="GridCell.Tab.0.left/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276918983" />
+    <state width="1510" height="128" key="GridCell.Tab.0.left/1920.0.1600.900/67.27.1533.873@67.27.1533.873" timestamp="1580222399654" />
+    <state width="755" height="206" key="GridCell.Tab.0.right" timestamp="1580276918983">
+      <screen x="1920" y="0" width="1600" height="900" />
     </state>
     <state width="1897" height="128" key="GridCell.Tab.0.right/1920.0.1600.900/0.27.1920.1053@0.27.1920.1053" timestamp="1580200309515" />
-    <state width="1510" height="128" key="GridCell.Tab.0.right/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580200229277" />
+    <state width="755" height="206" key="GridCell.Tab.0.right/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276918983" />
+    <state width="1510" height="128" key="GridCell.Tab.0.right/1920.0.1600.900/67.27.1533.873@67.27.1533.873" timestamp="1580222399654" />
+    <state x="2242" y="97" key="SettingsEditor" timestamp="1580276342626">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2242" y="97" key="SettingsEditor/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276342626" />
+    <state x="2521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580276968174">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1580276968174" />
   </component>
 </project>
